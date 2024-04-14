@@ -78,7 +78,7 @@ And much more! Head to the [Use cases](https://python.langchain.com/docs/use_cas
 
 ## 🚀 How does LangChain help?
 The main value props of the LangChain libraries are:
-1. **Components**: composable building blocks, tools, and integrations for working with language models. Components are modular and easy-to-use, whether you are using the rest of the LangChain framework or not
+1. **Components**: composable building blocks, tools, and integrations for working with language models. Components are modular and easy to use, whether you are using the rest of the LangChain framework or not
 2. **Off-the-shelf chains**: built-in assemblages of components for accomplishing higher-level tasks
 
 Off-the-shelf chains make it easy to get started. Components make it easy to customize existing chains and build new ones. 
