@@ -49,7 +49,7 @@ For these applications, LangChain simplifies the entire application lifecycle:
 - **`langchain`**: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
 - **`[LangGraph](https://python.langchain.com/docs/langgraph)`**: A library for building robust and stateful multi-actor applications with LLMs by modeling steps as edges and nodes in a graph.
 
-### Productionization:
+### productionization:
 - **[LangSmith](https://python.langchain.com/docs/langsmith)**: A developer platform that lets you debug, test, evaluate, and monitor chains built on any LLM framework and seamlessly integrates with LangChain.
 
 ### Deployment:
@@ -85,7 +85,7 @@ Off-the-shelf chains make it easy to get started. Components make it easy to cus
 
 ## LangChain Expression Language (LCEL)
 
-LCEL is the foundation of many of LangChain's components, and is a declarative way to compose chains. LCEL was designed from day 1 to support putting prototypes in production, with no code changes, from the simplest “prompt + LLM” chain to the most complex chains.
+LCEL is the foundation of many of LangChain's components and is a declarative way to compose chains. LCEL was designed from day 1 to support putting prototypes in production, with no code changes, from the simplest “prompt + LLM” chain to the most complex chains.
 
 - **[Overview](https://python.langchain.com/docs/expression_language/)**: LCEL and its benefits
 - **[Interface](https://python.langchain.com/docs/expression_language/interface)**: The standard interface for LCEL objects
