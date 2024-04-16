@@ -46,7 +46,7 @@ For these applications, LangChain simplifies the entire application lifecycle:
 - **`langchain-core`**: Base abstractions and LangChain Expression Language.
 - **`langchain-community`**: Third party integrations.
   - Some integrations have been further split into **partner packages** that only rely on **`langchain-core`**. Examples include **`langchain_openai`** and **`langchain_anthropic`**.
-- **`langchain`**: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
+- **`lang-chain**: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
 - **`[LangGraph](https://python.langchain.com/docs/langgraph)`**: A library for building robust and stateful multi-actor applications with LLMs by modeling steps as edges and nodes in a graph.
 
 ### productionization:
